@@ -1,4 +1,5 @@
 using System;
+
     public class Ex12
     {
         public static double Media(double a, double b, double c){
